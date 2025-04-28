@@ -4,7 +4,7 @@
 
 
 **Objective**
-Understand and implement Simple and Multiple Linear Regression.
+:Understand and implement Simple and Multiple Linear Regression.
 
 Tools used: Scikit-learn, Pandas, Matplotlib.
 
