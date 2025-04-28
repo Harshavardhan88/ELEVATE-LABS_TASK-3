@@ -8,7 +8,9 @@
 
 Tools used: Scikit-learn, Pandas, Matplotlib.
 
-**Project Steps**
+**Project Steps**:
+
+
 1.Imported and preprocessed the Housing dataset.
 
 2.Split data into training and testing sets.
